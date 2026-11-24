@@ -6,14 +6,22 @@ Building scalable SaaS products with React, TypeScript and Next.js.
 
 💼 VOICEplug AI | Production platforms serving 1000+ locations, 10k+ Daily Users
 
-[Portfolio](https://gaurav-portfolio-mauve.vercel.app/) · [LinkedIn](https://linkedin.com/in/gaurav-sheoran)
+🌐 Connect With Me
 
+<p align="center">
+  <a href="https://gaurav-portfolio-mauve.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gaurav-sheoran">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ---
 
 📊 My Developer Footprint
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthegauravsheoran&query=%24.public_repos&label=PUBLIC%20REPOS&color=181717&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PUBLIC REPOS-20%2B%-f59e0b?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-6366f1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PLATFORMS-200%2B%20LOCATIONS-0891b2?style=for-the-badge" />
 </p>
