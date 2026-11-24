@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hey, I'm Gaurav Sheoran
 
-<!--
-**thegauravsheoran/thegauravsheoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Engineer | Product Builder | 3 Years of Experience
 
-Here are some ideas to get you started:
+Building scalable SaaS products and high-performance web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼VOICEplug AI — Built production platforms supporting 200+ restaurant locations.
+
+⚡ Tech: React · TypeScript · JavaScript · Next.js · Node.js · PostgreSQL
+
+🌐 [Portfolio](https://gaurav-portfolio-mauve.vercel.app/) 
+· [LinkedIn](https://linkedin.com/in/gaurav-sheoran) 
+· [Email](mailto:thegauravsheoran@gmail.com)
+
+---
+
+📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thegauravsheoran&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+
+⚡ Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thegauravsheoran&layout=compact&theme=tokyonight&hide_border=true)
